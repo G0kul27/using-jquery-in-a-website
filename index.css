@@ -1,0 +1,24 @@
+.big-heading
+{
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0 0 7px #FF8C32;
+    text-transform: uppercase;
+    text-align: center;
+}
+.up-page
+{
+    font-size: 1.25rem;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: red;
+}
